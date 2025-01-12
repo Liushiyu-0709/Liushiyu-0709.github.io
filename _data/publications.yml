@@ -5,7 +5,7 @@ main:
     conference_short: EMNLP 2024
     conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
     pdf: https://arxiv.org/abs/2410.04103
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/version updates.png
     notes: Accept
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
