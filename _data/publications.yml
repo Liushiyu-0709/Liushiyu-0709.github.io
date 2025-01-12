@@ -2,8 +2,7 @@ main:
 
   - title: A Learning Rate Path Switching Training Paradigm for Version Updates of Large Language Models
     authors: Zhihao Wang*, <strong>Shiyu Liu*</strong>, Jianheng Huang, Wang Zheng, YiXuan Liao, Xiaoxin Chen, Junfeng Yao, Jinsong Su
-    conference_short: EMNLP 2024
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+    conference: EMNLP, 2024.
     pdf: https://arxiv.org/abs/2410.04103
     image: ./assets/img/version updates.png
     notes: Accept
