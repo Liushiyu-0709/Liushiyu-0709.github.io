@@ -17,4 +17,4 @@ I am a first year master student in Institute of Artificial Intelligence, XMU un
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+% {% include_relative _includes/services.md %}
