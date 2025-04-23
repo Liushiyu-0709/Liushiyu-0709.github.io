@@ -9,7 +9,7 @@ I am a first year master student in Institute of Artificial Intelligence, XMU un
 ## Research Interests
 
 - **Language Model:** reliable LLM, efficient LLM
-- **Multimodal Model:** video understanding, sign language translation, few-shot learning
+- **Multimodal Model** 
 
 ## News
 
