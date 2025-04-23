@@ -13,7 +13,7 @@ I am a first year master student in Institute of Artificial Intelligence, XMU un
 
 ## News
 
-- **[Sep. 2025]** Our paper about LLM version updates is accepted to EMNLP 2024.
+- **[Sep. 2024]** Our paper about LLM version updates is accepted to EMNLP 2024.
 
 {% include_relative _includes/publications.md %}
 
