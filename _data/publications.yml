@@ -10,20 +10,16 @@ main:
     - title: Towards Better Text Image Machine Translation with Multimodal Codebook and Multi-stage Training.
     authors: Zhibin Lan, Jiawei Yu, <strong>Shiyu Liu</strong>, Junfeng Yao, Degen Huang, and Jinsong Su
     conference: Neural Networks
-    pdf:
-    image: 
     notes: Accept
 
     - title: Multi-Level Cross-Modal Alignment for Speech Relation Extraction.
     authors: Liang Zhang, Zhen Yang, Biao Fu, Ziyao Lu, Liangying Shao, <strong>Shiyu Liu</strong>, Fandong Meng, Jie Zhou, Xiaoli Wang, and Jinsong Su
     conference: EMNLP, 2024.
     pdf: https://aclanthology.org/2024.emnlp-main.668.pdf
-    image: 
     notes: Accept
 
     - title: Efficient $k$-Nearest-Neighbor Machine Translation with Dynamic Retrieval.
     authors: Yan Gao*, Zhiwei Cao*, Zhongjian Miao, Baosong Yang, <strong>Shiyu Liu</strong>, Min Zhang, and Jinsong Su
     conference: ACL findings, 2024.
     pdf: https://arxiv.org/abs/2406.06073
-    image: 
     notes: Accept
