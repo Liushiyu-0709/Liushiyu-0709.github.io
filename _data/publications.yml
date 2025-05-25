@@ -1,20 +1,20 @@
 main:
-  - title: Countering the Over-Reliance Trap: Mitigating Object Hallucination for LVLMs via a Self-Validation Framework
-    authors: <strong>Shiyu Liu*</strong>, Xinyi Wen, Zhibin Lan, Ante Wang, Jinsong Su
-    conference: ACL ARR 2025.
-    notes: Accept
-    
-  - title: Gloss Matters: Unlocking the Potential of Non-Autoregressive Sign Language Translation
-    authors: Zhihao Wang*, <strong>Shiyu Liu*</strong>, Zhiwei He, Kangjie Zheng, Liangying Shao, Junfeng Yao, Jinsong Su 
-    conference: ACM MM, 2025.
-    notes: Accept
-    
   - title: A Learning Rate Path Switching Training Paradigm for Version Updates of Large Language Models
     authors: Zhihao Wang*, <strong>Shiyu Liu*</strong>, Jianheng Huang, Wang Zheng, YiXuan Liao, Xiaoxin Chen, Junfeng Yao, Jinsong Su
     conference: EMNLP, 2024.
     pdf: https://arxiv.org/abs/2410.04103
     image: ./assets/img/version updates.png
     notes: Accept
+
+  - title: Countering the Over-Reliance Trap: Mitigating Object Hallucination for LVLMs via a Self-Validation Framework
+    authors: <strong>Shiyu Liu*</strong>, Xinyi Wen, Zhibin Lan, Ante Wang, Jinsong Su
+    conference: ACL ARR 2025.
+    notes: Under Review
+    
+  - title: Gloss Matters: Unlocking the Potential of Non-Autoregressive Sign Language Translation
+    authors: Zhihao Wang*, <strong>Shiyu Liu*</strong>, Zhiwei He, Kangjie Zheng, Liangying Shao, Junfeng Yao, Jinsong Su 
+    conference: ACM MM, 2025.
+    notes: Under Review
 
   - title: Towards Better Text Image Machine Translation with Multimodal Codebook and Multi-stage Training.
     authors: Zhibin Lan, Jiawei Yu, <strong>Shiyu Liu</strong>, Junfeng Yao, Degen Huang, and Jinsong Su
