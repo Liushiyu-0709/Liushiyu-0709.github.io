@@ -6,7 +6,7 @@ main:
     image: ./assets/img/version updates.png
     notes: Accept
 
-  - title: Countering the Over-Reliance Trap: Mitigating Object Hallucination for LVLMs via a Self-Validation Framework
+  - title: "Countering the Over-Reliance Trap: Mitigating Object Hallucination for LVLMs via a Self-Validation Framework"
     authors: <strong>Shiyu Liu*</strong>, Xinyi Wen, Zhibin Lan, Ante Wang, Jinsong Su
     conference: ACL ARR 2025.
     notes: Under Review
