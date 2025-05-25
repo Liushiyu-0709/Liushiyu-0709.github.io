@@ -2,12 +2,12 @@ main:
   - title: Countering the Over-Reliance Trap: Mitigating Object Hallucination for LVLMs via a Self-Validation Framework
     authors: <strong>Shiyu Liu*</strong>, Xinyi Wen, Zhibin Lan, Ante Wang, Jinsong Su
     conference: ACL ARR 2025.
-    notes: Under Review
+    notes: Accept
     
   - title: Gloss Matters: Unlocking the Potential of Non-Autoregressive Sign Language Translation
     authors: Zhihao Wang*, <strong>Shiyu Liu*</strong>, Zhiwei He, Kangjie Zheng, Liangying Shao, Junfeng Yao, Jinsong Su 
     conference: ACM MM, 2025.
-    notes: Under Review
+    notes: Accept
     
   - title: A Learning Rate Path Switching Training Paradigm for Version Updates of Large Language Models
     authors: Zhihao Wang*, <strong>Shiyu Liu*</strong>, Jianheng Huang, Wang Zheng, YiXuan Liao, Xiaoxin Chen, Junfeng Yao, Jinsong Su
